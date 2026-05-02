@@ -28,8 +28,8 @@
 ### 📊 我的喵生数据
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ntu2025&show_icons=true&theme=dracula&hide_border=true&bg_color=1A1B27&title_color=F7A1C4&icon_color=F7A1C4&text_color=BF91C4"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntu2025&layout=compact&theme=dracula&hide_border=true&bg_color=1A1B27&title_color=F7A1C4&text_color=BF91C4"/>
+  <img height="160em" src="https://github-readme-stats-liart-psi.vercel.app/api?username=ntu2025&show_icons=true&theme=dracula&hide_border=true&bg_color=1A1B27&title_color=F7A1C4&icon_color=F7A1C4&text_color=BF91C4"/>
+  <img height="160em" src="https://github-readme-stats-liart-psi.vercel.app/api/top-langs/?username=ntu2025&layout=compact&theme=dracula&hide_border=true&bg_color=1A1B27&title_color=F7A1C4&text_color=BF91C4"/>
 </p>
 
 ---
